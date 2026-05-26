@@ -1,0 +1,8 @@
+export const PRODUTOS = [
+  { id: '1', nome: 'O Nascimento de Venus', autor: 'Sandro Botticelli', periodo: 'Renascimento', preco: 450.00, imagem: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project.jpg/800px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project.jpg' },
+  { id: '2', nome: 'A Noite Estrelada', autor: 'Vincent van Gogh', periodo: 'Impressionismo', preco: 380.00, imagem: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/800px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg' },
+  { id: '3', nome: 'Moca com o Brinco de Perola', autor: 'Johannes Vermeer', periodo: 'Renascimento', preco: 290.00, imagem: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/800px-1665_Girl_with_a_Pearl_Earring.jpg' },
+  { id: '4', nome: 'Abaporu', autor: 'Tarsila do Amaral', periodo: 'Modernismo', preco: 500.00, imagem: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Abaporu_-_Tarsila_do_Amaral%2C_1928.jpg/640px-Abaporu_-_Tarsila_do_Amaral%2C_1928.jpg' },
+  { id: '5', nome: 'A Grande Onda de Kanagawa', autor: 'Katsushika Hokusai', periodo: 'Modernismo', preco: 310.00, imagem: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Great_Wave_off_Kanagawa2.jpg/800px-Great_Wave_off_Kanagawa2.jpg' },
+  { id: '6', nome: 'O Beijo', autor: 'Gustav Klimt', periodo: 'Modernismo', preco: 460.00, imagem: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg/800px-The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg' }
+];
